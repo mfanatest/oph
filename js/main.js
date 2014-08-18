@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
     /*Diese Daten m�ssen angepasst werden*/
-    var username = "mfanafuthi";
+    var username = "mfanatest";
     var repname = "oph";
     var branch = "gh-pages"
     var cover = "Title"
